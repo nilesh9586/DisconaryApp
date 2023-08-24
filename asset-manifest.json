@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DisconaryApp/static/css/main.e6c13ad2.css",
+    "main.js": "/DisconaryApp/static/js/main.249de2ad.js",
+    "static/js/787.717c40b9.chunk.js": "/DisconaryApp/static/js/787.717c40b9.chunk.js",
+    "index.html": "/DisconaryApp/index.html",
+    "main.e6c13ad2.css.map": "/DisconaryApp/static/css/main.e6c13ad2.css.map",
+    "main.249de2ad.js.map": "/DisconaryApp/static/js/main.249de2ad.js.map",
+    "787.717c40b9.chunk.js.map": "/DisconaryApp/static/js/787.717c40b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.249de2ad.js"
+  ]
+}
