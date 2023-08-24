@@ -56,7 +56,7 @@ const ResultList = () => {
         <div>
           <h3 className="text-2xl font-bold mt-4">Meaning & Definitions:</h3>
           <MeaningList mean={response} />
-          <h3 className="text-2xl font-bold mt-4 text-[#FF0000]">Example:</h3>
+          <h3 className="text-2xl font-bold mt-4 text-[#FF0000] ">Example:</h3>
           <Example mean={response} />
           <h3 className="text-2xl font-bold mt-4">Synonym:</h3>
           <Synonym mean={response} />
